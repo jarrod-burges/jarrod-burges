@@ -22,11 +22,12 @@ Working thesis: *Multi-modal data-driven mineralogy across P-T-X conditions* (Ad
 
 ---
 
-## 🗄️ GeoCORK
+## 🗄️ [GeoCORK](https://github.com/kathrynmetcalf/GeoCORK)
 
-**GeoCORK** is a desktop application and workflow for managing, storing, and querying U-Pb geochronology data in a SQL database. It began as my undergraduate thesis at CSU Fullerton with Dr. Kathryn Metcalf and now includes integration pathways with EarthChem and SESAR2 (IGSN sample import).
+**GeoCORK** is a desktop application and workflow for managing, storing, and querying U-Pb geochronology data in a SQL database. It began as my undergraduate thesis at CSU Fullerton with Dr. Kathryn Metcalf and now includes integration pathways with EarthChem and SESAR2 (IGSN sample import). 
 
 - 📄 Metcalf, K. & **Burges, J.M.** (2026). *GeoCORK: An improved workflow for U-Pb geochronology data management.* Applied Computing and Geosciences. [doi:10.1016/j.acags.2026.100364](https://doi.org/10.1016/j.acags.2026.100364)
+- [Find GeoCORK on GitHub Here](https://github.com/kathrynmetcalf/GeoCORK)
 - Presented at GSA, AGU, and Lamont-Doherty's Geoinformatics Research Group lecture series
 
 ---
